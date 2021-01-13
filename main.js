@@ -15,8 +15,8 @@ leftWristY = 0;
 
 function preload()
 {
-	song1 = loadSound("despasito.aac");
-	song2 = loadSound("faded.aac");
+	song1 = loadSound("Despacito.mp3");
+	song2 = loadSound("Faded.mp3");
 }
 
 function setup() {
